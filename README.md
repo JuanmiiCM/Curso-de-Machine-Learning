@@ -15,7 +15,7 @@ A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en
 
 - SpaceX - 1 - Data Collection Api.ipynb : Descargar datos de un API
 - dataset_part_1.csv : dataset extraído del ejercicio anterior(SpaceX - 1 - Data Collection Api.ipynb) y se usa en el siguiente(SpaceX - 2 - EDA.ipynb)
-- SpaceX - 2 - EDA.ipynb : 
+- SpaceX - 2 - EDA.ipynb : En esta práctica realizamos un poco de análisis de datos exploratorio
 - dataset_part_2.csv : dataset extraído del ejercicio anterior(SpaceX - 2 - EDA.ipynb) y se usa en el siguiente(SpaceX - 3 -EDA Using SQL.ipynb)
 - SpaceX - 3 -EDA Using SQL.ipynb : Sintaxis de SQL
 
