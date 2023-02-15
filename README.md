@@ -20,3 +20,4 @@ A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en
 - SpaceX - 3 -EDA Using SQL.ipynb : Sintaxis de SQL
 
 
+A día 16/02/2023 (Día 3) hemos programado  en el lenguaje de programación Python.
