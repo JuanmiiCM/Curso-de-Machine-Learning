@@ -12,7 +12,6 @@ A día 14/02/2023 (Día 1) hemos programado una serie de ejercicios básicos en 
 
 A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en el lenguaje de programación Python.
 
-
 - SpaceX - 1 - Data Collection Api.ipynb : Descargar datos de un API
 - dataset_part_1.csv : dataset extraído del ejercicio anterior(SpaceX - 1 - Data Collection Api.ipynb) y se usa en el siguiente(SpaceX - 2 - EDA.ipynb)
 - SpaceX - 2 - EDA.ipynb : En esta práctica realizamos un poco de análisis de datos exploratorio
@@ -20,4 +19,7 @@ A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en
 - SpaceX - 3 -EDA Using SQL.ipynb : Sintaxis de SQL
 
 
-A día 16/02/2023 (Día 3) hemos programado  en el lenguaje de programación Python.
+A día 16/02/2023 (Día 3) hemos programado hecho una introducción a Machine Learning en el lenguaje de programación Python.
+
+- M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb : Introducción
+- Prophet - Predecir el valor de Bitcoin.ipynb : Ejercicio
