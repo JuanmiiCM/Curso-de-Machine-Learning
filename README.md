@@ -1,6 +1,6 @@
 # Curso-de-Machine-Learning
 
-A día 14/02/2023 (Día 1) hemos programado una serie de ejercicios básicos en el lenguaje de programación Python.
+A día 13/02/2023 (Día 1) hemos programado una serie de ejercicios básicos en el lenguaje de programación Python.
 
 - Día1presentacion.ipynb: Comenzamos repasando algunos comandos básicos de Python para coger soltura para las relaciones siguientes.
 - Tipos de variables.ipynb: Vemos los distintos tipos de variables y trabajamos con ellas, haciendo algunos ejercicios.
@@ -10,7 +10,7 @@ A día 14/02/2023 (Día 1) hemos programado una serie de ejercicios básicos en 
 
 
 
-A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en el lenguaje de programación Python.
+A día 14/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en el lenguaje de programación Python.
 
 - SpaceX - 1 - Data Collection Api.ipynb : Descargar datos de un API
 - dataset_part_1.csv : dataset extraído del ejercicio anterior(SpaceX - 1 - Data Collection Api.ipynb) y se usa en el siguiente(SpaceX - 2 - EDA.ipynb)
@@ -20,7 +20,7 @@ A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en
 - SpaceX - 4 - EDA with Data Visualization.ipynb : Visualización
 
 
-A día 16/02/2023 (Día 3) hemos programado hecho una introducción a Machine Learning en el lenguaje de programación Python.
+A día 15/02/2023 (Día 3) hemos programado hecho una introducción a Machine Learning en el lenguaje de programación Python.
 
 - M5 - 06 - Introducción a Machine Learning con Scikit-Learn.ipynb : Introducción
 - Prophet - Predecir el valor de Bitcoin.ipynb : Ejercicio
@@ -28,7 +28,7 @@ A día 16/02/2023 (Día 3) hemos programado hecho una introducción a Machine Le
 - Canada.xlsx : Dataset para el ejercicio de mapas
 
 
-A día 17/02/2023 (Día 4) hemos programadouna serie de ejercicios de SpaceX en el lenguaje de programación Python.
+A día 16/02/2023 (Día 4) hemos programado una serie de ejercicios de SpaceX en el lenguaje de programación Python.
 
 - dataset_one-hot.csv : Dataset 1 para los ejercicios
 - spacex_launch_geo.csv : Dataset 2 para los ejercicios
@@ -36,4 +36,10 @@ A día 17/02/2023 (Día 4) hemos programadouna serie de ejercicios de SpaceX en 
 - M5 - SPACEX2 - 5 - Interactive Visual Analytics con Folium.ipynb : Visualización con Folium
 - M5 - SPACEX2 - 6 - Machine Learning Predicciones.ipynb : Predicciones 
 
+
+A día 17/02/2023 (Día 5).
+
+- Juan Miguel Repaso Teoría - Curso Actualízate M5.docx : Repaso teórico de toda la semana.
+- M4 - 10 - Pandas.ipynb : Repaso de pandas en Python.
+- exportando.csv : Dataset prueba para exportar y descargar.
 
