@@ -17,6 +17,7 @@ A día 15/02/2023 (Día 2) hemos programado una serie de ejercicios de SpaceX en
 - SpaceX - 2 - EDA.ipynb : En esta práctica realizamos un poco de análisis de datos exploratorio
 - dataset_part_2.csv : dataset extraído del ejercicio anterior(SpaceX - 2 - EDA.ipynb) y se usa en el siguiente(SpaceX - 3 -EDA Using SQL.ipynb)
 - SpaceX - 3 -EDA Using SQL.ipynb : Sintaxis de SQL
+- SpaceX - 4 - EDA with Data Visualization.ipynb : Visualización
 
 
 A día 16/02/2023 (Día 3) hemos programado hecho una introducción a Machine Learning en el lenguaje de programación Python.
